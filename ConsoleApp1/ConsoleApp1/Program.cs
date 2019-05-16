@@ -6,9 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Test of git");
-            Console.ReadLine();
+            Console.WriteLine("TFS 2013 with Git Rocks!");
+            Console.WriteLine("Feature 1 changes");
+            
         }
     }
 }
